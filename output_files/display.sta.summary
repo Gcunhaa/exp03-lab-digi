@@ -1,0 +1,197 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -7.245
+TNS   : -152.518
+
+Type  : Slow 1100mV 85C Model Setup 'Clock_Divider:CD|tmp'
+Slack : -5.129
+TNS   : -152.274
+
+Type  : Slow 1100mV 85C Model Setup 'ClockD:CD1|tmp'
+Slack : -4.231
+TNS   : -49.324
+
+Type  : Slow 1100mV 85C Model Setup 'receptor_UC:UC|current_state.captura_s'
+Slack : -3.206
+TNS   : -11.826
+
+Type  : Slow 1100mV 85C Model Hold 'ClockD:CD1|tmp'
+Slack : 0.257
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : 0.507
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'Clock_Divider:CD|tmp'
+Slack : 0.519
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'receptor_UC:UC|current_state.captura_s'
+Slack : 1.185
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Clock_Divider:CD|tmp'
+Slack : -0.724
+TNS   : -49.784
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.724
+TNS   : -45.447
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'ClockD:CD1|tmp'
+Slack : -0.724
+TNS   : -25.495
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'receptor_UC:UC|current_state.captura_s'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -7.486
+TNS   : -149.885
+
+Type  : Slow 1100mV 0C Model Setup 'Clock_Divider:CD|tmp'
+Slack : -5.205
+TNS   : -149.963
+
+Type  : Slow 1100mV 0C Model Setup 'ClockD:CD1|tmp'
+Slack : -4.030
+TNS   : -46.773
+
+Type  : Slow 1100mV 0C Model Setup 'receptor_UC:UC|current_state.captura_s'
+Slack : -3.223
+TNS   : -11.857
+
+Type  : Slow 1100mV 0C Model Hold 'ClockD:CD1|tmp'
+Slack : 0.331
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'Clock_Divider:CD|tmp'
+Slack : 0.489
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : 0.527
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'receptor_UC:UC|current_state.captura_s'
+Slack : 1.233
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Clock_Divider:CD|tmp'
+Slack : -0.724
+TNS   : -49.640
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.724
+TNS   : -45.634
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'ClockD:CD1|tmp'
+Slack : -0.724
+TNS   : -25.357
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'receptor_UC:UC|current_state.captura_s'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -3.104
+TNS   : -41.433
+
+Type  : Fast 1100mV 85C Model Setup 'ClockD:CD1|tmp'
+Slack : -2.016
+TNS   : -22.445
+
+Type  : Fast 1100mV 85C Model Setup 'Clock_Divider:CD|tmp'
+Slack : -1.891
+TNS   : -46.204
+
+Type  : Fast 1100mV 85C Model Setup 'receptor_UC:UC|current_state.captura_s'
+Slack : -1.044
+TNS   : -3.765
+
+Type  : Fast 1100mV 85C Model Hold 'Clock_Divider:CD|tmp'
+Slack : 0.037
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'ClockD:CD1|tmp'
+Slack : 0.045
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'receptor_UC:UC|current_state.captura_s'
+Slack : 0.480
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.313
+TNS   : -3.666
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'ClockD:CD1|tmp'
+Slack : -0.046
+TNS   : -0.366
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Clock_Divider:CD|tmp'
+Slack : -0.027
+TNS   : -0.054
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'receptor_UC:UC|current_state.captura_s'
+Slack : 0.473
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -2.799
+TNS   : -35.620
+
+Type  : Fast 1100mV 0C Model Setup 'ClockD:CD1|tmp'
+Slack : -1.762
+TNS   : -19.556
+
+Type  : Fast 1100mV 0C Model Setup 'Clock_Divider:CD|tmp'
+Slack : -1.667
+TNS   : -40.365
+
+Type  : Fast 1100mV 0C Model Setup 'receptor_UC:UC|current_state.captura_s'
+Slack : -0.949
+TNS   : -3.405
+
+Type  : Fast 1100mV 0C Model Hold 'ClockD:CD1|tmp'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'Clock_Divider:CD|tmp'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'receptor_UC:UC|current_state.captura_s'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.313
+TNS   : -3.680
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'ClockD:CD1|tmp'
+Slack : -0.014
+TNS   : -0.110
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Clock_Divider:CD|tmp'
+Slack : 0.015
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'receptor_UC:UC|current_state.captura_s'
+Slack : 0.485
+TNS   : 0.000
+
+------------------------------------------------------------

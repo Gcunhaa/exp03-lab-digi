@@ -1,0 +1,8 @@
+
+State Machine - |receptor_exp2|receptor_UC:UC|current_state
+Name current_state.nup_display_s current_state.up_display_s current_state.paridade_s current_state.captura_s current_state.espera_s 
+current_state.espera_s 0 0 0 0 0 
+current_state.captura_s 0 0 0 1 1 
+current_state.paridade_s 0 0 1 0 1 
+current_state.up_display_s 0 1 0 0 1 
+current_state.nup_display_s 1 0 0 0 1 
